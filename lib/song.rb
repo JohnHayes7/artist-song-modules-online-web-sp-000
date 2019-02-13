@@ -19,7 +19,7 @@ class Song
   # end
 
   def self.all
-    @@song
+    @@songs
   end
 
   def artist=(artist)
